@@ -42,7 +42,7 @@ https://github.com/HLovelady/Password-generator
 
 
 ## Application URL
-
+https://hlovelady.github.io/JavaScript--Password-Generator/
 
 ## Credits
 N/A
